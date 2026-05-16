@@ -1,0 +1,6 @@
+if SHIELD_CALANGO001
+
+config ZMK_KEYBOARD_NAME
+    default "calangoPlanck"
+
+endif # SHIELD_CALANGO001

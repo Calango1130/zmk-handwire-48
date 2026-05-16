@@ -1,0 +1,2 @@
+config SHIELD_CALANGO001
+    def_bool $(shields_list_contains,calango001)
